@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 80px;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+.texto{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 320px;
+    color: black;
+}
+
+.imagem-flutuante {
+    float: right;s
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.subtitulo {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    margin: 50px;
+
+    }
